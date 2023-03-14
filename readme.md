@@ -1,0 +1,1 @@
+Este repositório serve apenas para apresentar um currículo sucinto
