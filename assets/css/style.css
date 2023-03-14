@@ -1,0 +1,32 @@
+:root {
+    --background-color: rgb(61, 61, 61);
+    --background-color-darker: rgb(43, 43, 43);
+  }
+  
+* {
+    box-sizing: border-box;
+    outline: 0;
+  }
+
+
+
+body {
+    color: aliceblue;
+    background-color: var(--background-color-darker);
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--background-color); 
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container a{
+    color: rgb(27, 188, 209);    
+}
